@@ -6,3 +6,4 @@ export * from "./useInterval";
 export * from "./useFetch";
 export * from "./useLazyCallback";
 export * from "./useRootFontSize";
+export * from "./usePrevious";
