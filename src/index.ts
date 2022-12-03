@@ -8,3 +8,4 @@ export * from "./useLazyCallback";
 export * from "./useRootFontSize";
 export * from "./usePrevious";
 export * from "./useEventListener";
+export * from "./useOnlineStatus";
